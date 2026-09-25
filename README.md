@@ -10,3 +10,4 @@ GPU：UHD620+R7 M340
 本人从15~11挨个版本测试后BigSur是唯一正常启动的版本
 Monterey直接在跑码的时候重启,Ventura内核恐慌,Sonoma依旧是跑码重启,Sequoia我不知道为什么无法启动,反正Big Sur能用就行（）
 有大神也可以自行修一下
+![Uploading MVIMG_20260925_011901.jpg…]()
